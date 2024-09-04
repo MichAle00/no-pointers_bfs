@@ -12,3 +12,4 @@
 /home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.pdb
 /home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.genruntimeconfig.cache
 /home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/ref/bfswopinters.dll
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.sourcelink.json

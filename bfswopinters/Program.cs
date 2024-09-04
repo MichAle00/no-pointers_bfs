@@ -90,24 +90,38 @@ class Program
             do
             {
                 Node<X> node = nodes.Dequeue();
+                visited.Add(node);
                 if (node.Data.Equals(data))
                 {
-                    visited.Append(node);
-                    foreach (Node<X> nod in visited)
+                    Console.WriteLine("The route is: ");
+                    for (int i = 0; i < visited.Count; i++)
                     {
-                        Console.WriteLine(nod.Data);
-                        return;
+                        Console.Write($"{visited[i].Data}");
+                        if (i == visited.Count - 1)
+                        {
+                            break;
+                        }
+                        Console.Write("->");
                     }
+
+                    return;
                 }
                 else
                 {
                     visited.Append(node);
-                    nodes.Enqueue(node.Left);
-                    nodes.Enqueue(node.Right);
+                    if (node.Left != null)
+                    {
+                        nodes.Enqueue(node.Left);
+                    }
+                    
+                    if (node.Right != null)
+                    {
+                        nodes.Enqueue(node.Right);
+                    }
                 }
             } while (nodes.Count != 0);
             
-            Console.WriteLine("Not found");
+            //Console.WriteLine("Not found");
         }
     }
     
