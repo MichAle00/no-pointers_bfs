@@ -1,0 +1,14 @@
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/bin/Debug/net8.0/bfswopinters
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/bin/Debug/net8.0/bfswopinters.deps.json
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/bin/Debug/net8.0/bfswopinters.runtimeconfig.json
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/bin/Debug/net8.0/bfswopinters.dll
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/bin/Debug/net8.0/bfswopinters.pdb
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.AssemblyInfoInputs.cache
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.AssemblyInfo.cs
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.csproj.CoreCompileInputs.cache
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.dll
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/refint/bfswopinters.dll
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.pdb
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/bfswopinters.genruntimeconfig.cache
+/home/miguelalejandro/Desktop/Projects/bfswopinters/bfswopinters/obj/Debug/net8.0/ref/bfswopinters.dll
