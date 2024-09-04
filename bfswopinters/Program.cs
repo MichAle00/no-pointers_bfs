@@ -121,7 +121,7 @@ class Program
                 }
             } while (nodes.Count != 0);
             
-            //Console.WriteLine("Not found");
+            Console.WriteLine("Not found");
         }
     }
     
@@ -134,7 +134,11 @@ class Program
         tree.Insert(3);
         tree.Insert(4);
         tree.Insert(5);
+        tree.Insert(6);
+        tree.Insert(7);
+        tree.Insert(8);
+        tree.Insert(9);
 
-        tree.BFS(3);
+        tree.BFS(8);
     }
 }
