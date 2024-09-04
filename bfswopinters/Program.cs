@@ -22,7 +22,7 @@ class Program
     class Tree<X>
     {
         internal Node<X> Root { get; set; }
-        int count = 1;
+        private Random count = new Random();
 
         public bool Insert(X data)
         {
@@ -39,7 +39,7 @@ class Program
 
             if (data == null) return false;
 
-            if (count % 2 == 0)
+            if (count.Next() % 2 == 0)
             {
                 if (node.Left == null)
                 {
@@ -63,8 +63,6 @@ class Program
                     Insert(data, node.Right, node);
                 }
             }
-
-            count++;
             return true;
         }
 

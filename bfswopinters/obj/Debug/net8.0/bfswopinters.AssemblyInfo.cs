@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("bfswopinters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+af04491c3b1438b8dbd9a984bb29e97f8023c589")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e91a0d1fc5273008eed2b97fdc2f24910def7fed")]
 [assembly: System.Reflection.AssemblyProductAttribute("bfswopinters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("bfswopinters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
